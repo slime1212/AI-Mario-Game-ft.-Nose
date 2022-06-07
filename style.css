@@ -1,0 +1,40 @@
+.heading {
+    width: 100%;
+    text-align: center;
+}
+
+h3 { display: inline }
+
+.solo {
+    margin-left: 300px;
+    border: 1px solid navy;
+    color: #000
+}
+
+.btn-success {
+    color: #fff;
+    font-size: 22px
+}
+
+.big-image { width: 100% }
+
+#status { font-size: 20px }
+
+h4 {
+    line-height: 2;
+    margin: 0px
+}
+
+.model-dialog { width: 90% }
+
+.instructImage {
+    width: 45%;
+    display: inline-block
+}
+
+video {
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px
+}
